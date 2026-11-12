@@ -1,0 +1,24 @@
+{
+    "id": 149161668,
+    "name": "Tp killed corrdoir",
+    "author": "CubedCubed",
+    "creators": ["Tpea8736"],
+    "verifier": "Tpea8736",
+    "verification": "https://youtu.be/NpEaa2P7qZI",
+    "percentToQualify": "100",
+    "password": "Freely Copyable",
+    "records": [
+        {
+            "user": "placeholder",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "placeholder",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
